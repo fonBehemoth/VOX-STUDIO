@@ -1,0 +1,6 @@
+{
+  "name": "Vox Studio",
+  "description": "An elegant speech synthesizer and text-to-speech editor featuring natural voice synthesis, custom speed and pitch controls, and live audio visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
